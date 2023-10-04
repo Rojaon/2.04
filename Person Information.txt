@@ -1,0 +1,6 @@
+Person{id=4, name='Arijj Qadah', age=50, occupation='Student'}
+Person{id=7, name='Sara Ali', age=40, occupation='Doctor'}
+Person{id=9, name='Omar Mosa', age=30, occupation='Engineer'}
+Person{id=4, name='Arijj Qadah', age=50, occupation='Student'}
+Person{id=7, name='Sara Ali', age=40, occupation='Doctor'}
+Person{id=9, name='Omar Mosa', age=30, occupation='Engineer'}
